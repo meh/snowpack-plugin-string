@@ -1,0 +1,24 @@
+{
+  "name": "snowpack-plugin-string",
+  "version": "0.1.0",
+  "description": "A plugin for snowpack which inlines files as strings.",
+  "main": "plugin.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meh/snowpack-plugin-string.git"
+  },
+  "keywords": [
+    "snowpack",
+    "string",
+    "inline",
+    "snowpack-plugin"
+  ],
+  "author": "meh. <meh@schizofreni.co>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/meh/snowpack-plugin-string/issues"
+  },
+  "homepage": "https://github.com/meh/snowpack-plugin-string#readme",
+  "dependencies": {}
+}
